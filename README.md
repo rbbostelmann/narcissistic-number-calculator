@@ -1,6 +1,6 @@
 ONGOING - NOT FINISHED
 
-# narcissistic_number_calculator
+# narcissistic-number-calculator
 
 A Narcissistic Number is a positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base. This calculator sticks to decimal base (Codewars, 2022).
 
